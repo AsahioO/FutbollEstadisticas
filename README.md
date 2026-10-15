@@ -1,4 +1,4 @@
-# ⚽ FutbolEstadisticas
+#  FutbolEstadisticas
 
 App Android con estadísticas de jugadores, equipos y calendario de la **Premier League** y **LaLiga**, más simulaciones de partidos para ver qué tan probable es cada resultado.
 
@@ -8,6 +8,21 @@ App Android con estadísticas de jugadores, equipos y calendario de la **Premier
 - **Equipos**: clasificación y datos de cada club.
 - **Partidos**: calendario y resultados.
 - **Simulador**: corre miles de simulaciones de un partido y te muestra las probabilidades de victoria, empate o derrota y los marcadores más probables.
+
+## Capturas
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/01-inicio.png" width="230"><br><sub><b>Inicio</b><br>Partido destacado y datos clave</sub></td>
+    <td align="center"><img src="screenshots/02-calendario.png" width="230"><br><sub><b>Partidos</b><br>Calendario con probabilidades</sub></td>
+    <td align="center"><img src="screenshots/05-simulador.png" width="230"><br><sub><b>Simulador</b><br>Miles de partidos simulados</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/03-jugadores.png" width="230"><br><sub><b>Jugadores</b><br>Búsqueda y filtro por posición</sub></td>
+    <td align="center"><img src="screenshots/06-jugador.png" width="230"><br><sub><b>Ficha de jugador</b><br>Rendimiento y estadísticas</sub></td>
+    <td align="center"><img src="screenshots/04-equipos.png" width="230"><br><sub><b>Equipos</b><br>Todos los clubes de la liga</sub></td>
+  </tr>
+</table>
 
 ## Descargar
 
